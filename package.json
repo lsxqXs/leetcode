@@ -1,0 +1,13 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Dlsxq/leetcode.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite . --port=8089 --open"
+  },
+  "devDependencies": {
+    "vite": "^2.3.8"
+  }
+}
